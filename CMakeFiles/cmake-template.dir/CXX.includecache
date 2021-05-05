@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/romanfihura/gitprojects/playground/cmake-template/App.cpp
+App.h
+/home/romanfihura/gitprojects/playground/cmake-template/App.h
+
+/home/romanfihura/gitprojects/playground/cmake-template/App.h
+
+/home/romanfihura/gitprojects/playground/cmake-template/main.cpp
+App.h
+/home/romanfihura/gitprojects/playground/cmake-template/App.h
+iostream
+-
+

@@ -1,0 +1,5 @@
+/home/romanfihura/gitprojects/playground/cmake-template/CMakeFiles/rebuild_cache.dir
+/home/romanfihura/gitprojects/playground/cmake-template/CMakeFiles/edit_cache.dir
+/home/romanfihura/gitprojects/playground/cmake-template/CMakeFiles/test.dir
+/home/romanfihura/gitprojects/playground/cmake-template/CMakeFiles/test-cmake-template.dir
+/home/romanfihura/gitprojects/playground/cmake-template/CMakeFiles/cmake-template.dir

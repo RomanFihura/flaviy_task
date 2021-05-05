@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/cmake-template.dir/App.cpp.o CMakeFiles/cmake-template.dir/main.cpp.o  -o cmake-template 
